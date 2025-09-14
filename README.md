@@ -6,7 +6,8 @@ Chloe(Keyi) Zhang UNI kz2557
 
 # Build Instruction
 
-# > Project 1: High Performance Linear Algebra Kernels
+<details>
+<summary> # Project 1: High Performance Linear Algebra Kernels </summary>
 
 ## Discussion questions
 
@@ -130,4 +131,4 @@ Chloe(Keyi) Zhang UNI kz2557
 
   * Specialization allowed each member to dive deep into one kernel.
   * Group discussions brought diverse insights into optimization strategies.
-
+</details>
