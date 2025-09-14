@@ -7,7 +7,7 @@ Chloe(Keyi) Zhang UNI kz2557
 # Build Instruction
 
 <details>
-<summary># Project 1: High Performance Linear Algebra Kernels </summary>
+<summary>Project 1: High Performance Linear Algebra Kernels </summary>
 
 ## Discussion questions
 
@@ -31,12 +31,6 @@ Chloe(Keyi) Zhang UNI kz2557
 ---
 
 ### 2. Row-Major vs. Column-Major Storage and Cache Locality
-
-Perfect — now we can rewrite the **second question answer** (row-major vs. column-major storage) with direct reference to your benchmark results. Here’s a clear Markdown version:
-
----
-
-### 2. Row-Major vs. Column-Major Storage and Cache Locality (with Results)
 
 * **Row-major storage (C/C++ default):**
 
