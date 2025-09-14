@@ -6,7 +6,7 @@ Chloe(Keyi) Zhang UNI kz2557
 
 # Build Instruction
 
-# Project 1: High Performance Linear Algebra Kernels
+# > Project 1: High Performance Linear Algebra Kernels
 
 ## Discussion questions
 
