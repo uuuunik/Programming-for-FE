@@ -5,7 +5,11 @@ Homework group project of CU IEOR E4741
 Chloe(Keyi) Zhang UNI kz2557
 
 # Build Instruction
+```bash
+clang++ -O3 -march=native -std=c++17 main.cpp -o linalg_bench
+```
 
+# Answers
 <details>
 <summary>Project 1: High Performance Linear Algebra Kernels </summary>
 

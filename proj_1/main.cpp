@@ -316,7 +316,7 @@ int main(int argc, char** argv) {
         {256, 16384}      // Short-wide
     };
 
-    vector<int> mm_sizes = {512, 1024, 2048, 4096}; // Square matrices
+    vector<int> mm_sizes = {512, 1024}; // Square matrices
 
     // Benchmark MV for different sizes
     for (const auto& size_pair : mv_sizes) {
